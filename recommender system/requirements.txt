@@ -1,0 +1,10 @@
+pandas
+numpy
+json
+re
+sys
+itertools
+scikit-learn
+matplotlib
+spotipy
+scikit-image
